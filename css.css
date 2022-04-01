@@ -1,0 +1,10 @@
+body {
+    background-color: lightpink;
+    text-align: center;
+}
+
+span {
+    font-weight: bold;
+    font-size: 48px;
+    text-decoration: underline;
+}
